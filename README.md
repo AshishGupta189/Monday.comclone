@@ -1,5 +1,5 @@
 # kaput-chin-6583
-* Video link-:https://drive.google.com/file/d/1cDc4yivt7agv2fdo3fX_DeH0EAD6iNbV/view
+* Video link-:https://drive.google.com/file/d/1Jasj82koNe5ruItNdIKTuroVBlNP4Mtu/view?usp=sharing
 * Netlify-:https://roaring-meringue-e04538.netlify.app/
 
 ## CLONING OF OUT WEBSITE MONDAY.COM
